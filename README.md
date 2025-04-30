@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Alessandro 👋
 
-<!--
-**alessandroCassani/alessandroCassani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a master's student in Computer Science  
+🔁 Double Degree at Milano-Bicocca 🇮🇹 and USI Lugano 🇨🇭  
+🌐 Passionate about Distributed Systems, Cloud, Machine Learning
+🔬 Currently working on cloud observability, gray failure detection, predictive maintenance
+🛠️ tech stack: Java, Python, Vue.js, Docker, SQL, noSQL, chaosBlade, Prometheus, Grafana
+🌱 Always learning and experimenting! Let's connect!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:  
+[LinkedIn](https://www.linkedin.com/in/alessandro-cassani-884b94251/)  
+📧 cassani0302@gmail.com
+
