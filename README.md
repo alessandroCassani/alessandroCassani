@@ -6,7 +6,7 @@
 
 🌐 Passionate about Distributed Systems, Cloud, Machine Learning
 
-🔬 Currently working on cloud observability, gray failure detection, time series analysis&forecasting
+🔬 Currently working on cloud observability, gray failure detection, time series analysis&forecasting, paxos consensus algorithm
 
 🛠️ tech stack: Java, Python, Vue.js, Docker, SQL, noSQL, chaosBlade, Prometheus, Grafana
 
